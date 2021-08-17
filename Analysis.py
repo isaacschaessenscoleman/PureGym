@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-''' Firstly I'll import the csv file of the gym data which I've scrapped from the PureGym website. This file simply 
+''' Firstly I'll import the csv file of the gym data which I've scraped from the PureGym website. This file simply 
 shows the number of people in the gym at certain times throughout the day. The aim is to gather a large enough data set
 to be able to decipher when the optimum gym times are (least number of people in the gym). '''
 
