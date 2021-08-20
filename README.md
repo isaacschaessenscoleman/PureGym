@@ -22,7 +22,7 @@ The code also shows the process of storing this data in a csv file.
 
 ## 2. data.csv
 This is the csv file that was created as a result of the 'CollectingData.py' file. It consists of four columns: date, day of the week, time and number of people
-in the gym. 
+in the gym. There's about three weeks worth of data in the file.
 
 
 ## 3. (JupyterNotebook)AnalysingGymData.ipymb
