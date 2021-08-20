@@ -35,3 +35,6 @@ Furthermore, I briefly talk about the limitations of the project with regards to
 ## 4. Functions.py
 This is an additional file that is not really a part of the project. It's a file consisting of different functions I created to help with visualising the data.
 These functions are not used anywhere in the project and were simply created as an experiment.
+
+## venv and .idea files
+Most of this project was done through the IDE PyCharm and then uploaded to GitHub straight from there. The venv and .idea folders always come with my PyCharm projects and I assume are what allow my code to work. As I'm new to GitHub and PyCharm I was unsure whether these files had importance - so I've gone ahead and uploaded them too. 
