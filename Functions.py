@@ -25,8 +25,6 @@ plt.ylabel('Average Number of People in the Gym')
 plt.title('Average Gym Activity throughout the Day')
 #plt.show()
 
-'''Producing a pivot table and bar chart of the average number of people in the gym at different times of the day for
-particular days.'''
 
 def specific_day_graph(day):
     ''' This function accepts a single argument which is a string of a day of the week (e.g. 'Monday'). The function
