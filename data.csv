@@ -1,4 +1,4 @@
-Date,Day,Time,Number
+Date,Day,Time,Number of People in Gym
 2021-07-28,Wednesday,18:30,78
 2021-07-28,Wednesday,19:00,87
 2021-07-28,Wednesday,19:30,73
@@ -506,3 +506,4 @@ Date,Day,Time,Number
 2021-08-20,Friday,14:00,45
 2021-08-20,Friday,14:30,27
 2021-08-20,Friday,15:00,31
+2021-08-20,Friday,15:30,25
