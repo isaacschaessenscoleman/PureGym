@@ -12,7 +12,8 @@ driver.get('https://www.puregym.com/members/')
 username_element = driver.find_element_by_name("username")
 username_element.send_keys('isaaccoleman35@gmail.com')
 password_element = driver.find_element_by_name("password")
-password_element.send_keys("79917124")
+# When the program was active I would've had my password in the argument below rather than '####'
+password_element.send_keys("####")
 login_button = driver.find_element_by_xpath("/html/body/div/main/div/form[2]/div[4]/button").click()
 accept_cookies = driver.find_element_by_xpath('//*[@id="coiPage-1"]/div[2]/button[2]').click()
 
