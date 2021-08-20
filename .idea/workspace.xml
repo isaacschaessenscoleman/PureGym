@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1vuT3PNGUg3utNQu72gBnPGWSW7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="342" key="Github.ShareDialog" timestamp="1629478046472">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="585" y="342" key="Github.ShareDialog/0.23.1440.838@0.23.1440.838" timestamp="1629478046472" />
+    <state x="397" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1629477863940">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="397" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.838@0.23.1440.838" timestamp="1629477863940" />
+    <state x="463" y="240" key="git4idea.merge.GitMergeDialog" timestamp="1629478078171">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="463" y="240" key="git4idea.merge.GitMergeDialog/0.23.1440.838@0.23.1440.838" timestamp="1629478078171" />
+    <state x="498" y="313" key="git4idea.rebase.GitRebaseDialog" timestamp="1629477973593">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="498" y="313" key="git4idea.rebase.GitRebaseDialog/0.23.1440.838@0.23.1440.838" timestamp="1629477973593" />
   </component>
 </project>
