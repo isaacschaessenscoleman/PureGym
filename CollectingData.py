@@ -42,7 +42,3 @@ while True:
         continue
 
 
-
-current_time = time.localtime()
-print(current_time, type(current_time))
-#print(current_time.tm_)
